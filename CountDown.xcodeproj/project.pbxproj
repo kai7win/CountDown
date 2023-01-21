@@ -24,6 +24,7 @@
 		DEA30A66297C2552004F4DDF /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		DEA30A69297C2552004F4DDF /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		DEA30A6B297C2552004F4DDF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		DEA30A71297C3565004F4DDF /* Readme.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = Readme.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -40,6 +41,7 @@
 		DEA30A51297C2551004F4DDF = {
 			isa = PBXGroup;
 			children = (
+				DEA30A71297C3565004F4DDF /* Readme.md */,
 				DEA30A5C297C2551004F4DDF /* CountDown */,
 				DEA30A5B297C2551004F4DDF /* Products */,
 			);
